@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class TiposNumericos  {
     public static void main(String[] args) {
         Byte numeroByte = 127; // -127 a 127
